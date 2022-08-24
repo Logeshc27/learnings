@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'firstapplo'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_584EE1AA8D8E470589ED523E79D4BBAF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8E373B30F96840DCA22315C5CB534CA3 }}
           package: .
